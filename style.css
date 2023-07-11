@@ -282,3 +282,54 @@ margin-bottom: 60px;
     font-weight: 800;
     margin-top: 12px;
 }
+
+.section-h{
+
+    display: flex;
+    align-items: center;
+justify-content: center;
+margin-top: 80px;
+gap:70px;
+
+}
+
+
+.section-div{
+
+    border:2px solid rgb(251, 247, 247);
+    border-radius: 15px;
+    box-shadow: 10px 12px 8px darkgrey;
+    
+}
+
+
+.section-btn{
+
+    margin-left: 85px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: coral;
+    border-radius: 5px;
+    color:white;
+    border: none;
+    margin-bottom: 10px;
+    
+    }
+
+    .section-div:hover{
+
+        box-shadow: 12px 10px 8px gray;
+        
+        }
+        .section-f{
+        
+        text-align: center;
+        margin-top: 5px;
+        
+        }
+        
+        .section-para{
+        
+        text-align: center;
+        
+        }

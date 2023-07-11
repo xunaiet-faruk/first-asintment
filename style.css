@@ -30,7 +30,7 @@
 margin-right: 40px;
 margin-top: 80px;
 margin-bottom: 90px;
-margin-left: 80px;
+margin-left: 60px;
 
 
     }
@@ -108,6 +108,7 @@ font-weight: bolder;
 .card-heading{
 
 font-size: 30px;
+font-family: 'Lobster', cursive;
 
 }
 

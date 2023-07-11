@@ -12,6 +12,7 @@
         background-color:#E554731A;
         width: 1320px;
         height:700px;
+        margin-bottom: 80px;
         
 
     }
@@ -207,3 +208,72 @@ margin: 0 auto;
     font-size: 10px;
 }
 
+.first-card{
+width: 80%;
+background-color:#2727270D;
+height: 300px;
+margin-top: 60px;
+margin-left: 130px;
+}
+
+.first-card-heading{
+
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding-top: 30px;
+gap:90px;
+padding-top:100px;
+
+}
+
+.image-card{
+
+    align-items: center;
+  
+}
+
+.div-new-heading{
+
+display:flex;
+margin-left: 250px;
+gap:40px;
+margin-bottom: 60px;
+
+
+}
+
+.div-heading{
+
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.radix-div{
+
+     border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);1x;
+    padding-top:30px;
+    
+}
+
+.index-div{
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top:35px;
+}
+
+.container-index{
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding-top:30px;
+}
+
+.paragrape{
+
+    text-align: center;
+    font-weight: 800;
+    margin-top: 12px;
+}

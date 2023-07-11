@@ -141,13 +141,31 @@ margin:0 auto;
 
 .main-button{
 
-    margin-top: 160px;
+    margin-top: 20px;
 }
 
 .banner-inp{
 
 font-size: 1rem;
-padding:10px;
+padding:15px;
 border-radius: 5px;
 border: none;
+margin-right:5px;
+}
+
+.banner-heading{
+
+    padding-top: 100px;
+}
+
+.banner-h{
+
+font-size:40px;
+font-weight: 800px;
+
+}
+
+.banner-p{
+
+color:#757575;
 }
